@@ -6,7 +6,7 @@ import pytz
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix='$', intents=intents)
 
-TOKEN = 'MTIyMTAyOTIwNjU4Mjg5MDUwNw.GeIJEL.aS8FeYG-Wsa1bV3qFgDZq2HMPemGwL3rb-X6_8'
+TOKEN = ''
 
 CHANNEL_ID_TO_NOTIFY = 0
 CHANNEL_ID_FILE = 'channel_id.txt'  # File to store channel ID
